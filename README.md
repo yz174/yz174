@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,As a CSE student with a focus on cybersecurity and artificial intelligence, I have a strong desire to work as a Full-Stack Developer, developing complete solutions. I thrive on cutting-edge tech projects that incorporate scalable, secure architecture with intelligent systems.
+Hi, A CSE student with a focus on cybersecurity and artificial intelligence, I have a strong desire to work as a Full-Stack Developer, developing complete solutions. I thrive on cutting-edge tech projects that incorporate scalable, secure architecture with intelligent systems.
 
 
 # 💻 Tech Stack:
