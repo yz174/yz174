@@ -10,6 +10,7 @@
       <td valign="top"><img src="./info-card.svg" width="490" /></td>
     </tr>
   </table>
+  <p><i>A CSE undergrad who builds fast and breaks things (on purpose).<br>Full-stack, systems, and security, always shipping..</i></p>
   <br>
 
   <h3><code>yz174@github ~ $ cat stack.txt</code></h3>
