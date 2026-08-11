@@ -1,0 +1,5 @@
+# Portrait pipeline only. Not needed by the daily workflow.
+pillow
+numpy
+opencv-python
+rembg
