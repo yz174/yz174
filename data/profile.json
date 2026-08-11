@@ -2,10 +2,9 @@
   "username": "yz174",
   "title": "yz174@github",
   "rows": [
-    { "key": "Now",        "value": "EDIT ME - current role @ company" },
-    { "key": "Prev",       "value": "EDIT ME - previous role @ company" },
-    { "key": "Focus",      "value": "EDIT ME - what you are going deep on" },
-    { "key": "Highlights", "value": "EDIT ME - one line you are proud of" },
-    { "key": "Reach",      "value": "EDIT ME - email / site / handle" }
+    { "key": "Now",   "value": "SDE Intern @ Figmenta" },
+    { "key": "Prev",  "value": "SDE Intern @ SAG, DRDO" },
+    { "key": "Focus", "value": "Shipping on both sides of the stack - React Native + Expo on mobile, Next.js on web, backed by Node.js / Express and FastAPI over Postgres" },
+    { "key": "Reach", "value": "ujjwalkrish082@gmail.com" }
   ]
 }
