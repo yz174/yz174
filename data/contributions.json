@@ -1,8 +1,8 @@
 {
   "username": "yz174",
-  "generated_at": "2026-08-26T07:06:42+00:00",
+  "generated_at": "2026-08-27T17:36:17+00:00",
   "from": "2025-08-24",
-  "to": "2026-08-26",
+  "to": "2026-08-27",
   "days": [
     {
       "date": "2025-08-24",
@@ -1657,7 +1657,7 @@
     {
       "date": "2026-07-20",
       "count": 22,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-07-21",
@@ -1666,7 +1666,7 @@
     },
     {
       "date": "2026-07-22",
-      "count": 25,
+      "count": 44,
       "level": 2
     },
     {
@@ -1791,12 +1791,12 @@
     },
     {
       "date": "2026-08-16",
-      "count": 14,
+      "count": 15,
       "level": 1
     },
     {
       "date": "2026-08-17",
-      "count": 1,
+      "count": 17,
       "level": 1
     },
     {
@@ -1806,32 +1806,32 @@
     },
     {
       "date": "2026-08-19",
-      "count": 9,
+      "count": 10,
       "level": 1
     },
     {
       "date": "2026-08-20",
-      "count": 16,
-      "level": 1
+      "count": 35,
+      "level": 2
     },
     {
       "date": "2026-08-21",
-      "count": 85,
+      "count": 88,
       "level": 4
     },
     {
       "date": "2026-08-22",
-      "count": 4,
+      "count": 21,
       "level": 1
     },
     {
       "date": "2026-08-23",
-      "count": 38,
+      "count": 44,
       "level": 2
     },
     {
       "date": "2026-08-24",
-      "count": 31,
+      "count": 32,
       "level": 2
     },
     {
@@ -1841,15 +1841,20 @@
     },
     {
       "date": "2026-08-26",
-      "count": 0,
-      "level": 0
+      "count": 9,
+      "level": 1
+    },
+    {
+      "date": "2026-08-27",
+      "count": 52,
+      "level": 3
     }
   ],
   "stats": {
-    "total": 2280,
-    "active_days": 156,
-    "current_streak": 16,
-    "longest_streak": 16,
+    "total": 2424,
+    "active_days": 158,
+    "current_streak": 18,
+    "longest_streak": 18,
     "best_day": {
       "date": "2026-08-06",
       "count": 99
@@ -1901,11 +1906,11 @@
       },
       {
         "month": "2026-07",
-        "total": 601
+        "total": 620
       },
       {
         "month": "2026-08",
-        "total": 628
+        "total": 753
       }
     ]
   }
