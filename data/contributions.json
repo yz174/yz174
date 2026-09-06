@@ -1,44 +1,9 @@
 {
   "username": "yz174",
-  "generated_at": "2026-09-05T10:31:08+00:00",
-  "from": "2025-08-31",
-  "to": "2026-09-05",
+  "generated_at": "2026-09-06T10:51:42+00:00",
+  "from": "2025-09-07",
+  "to": "2026-09-06",
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0,
@@ -1831,22 +1796,22 @@
     },
     {
       "date": "2026-08-31",
-      "count": 13,
+      "count": 17,
       "level": 1
     },
     {
       "date": "2026-09-01",
-      "count": 2,
+      "count": 7,
       "level": 1
     },
     {
       "date": "2026-09-02",
-      "count": 2,
+      "count": 13,
       "level": 1
     },
     {
       "date": "2026-09-03",
-      "count": 2,
+      "count": 16,
       "level": 1
     },
     {
@@ -1856,12 +1821,17 @@
     },
     {
       "date": "2026-09-05",
-      "count": 2,
+      "count": 12,
       "level": 1
+    },
+    {
+      "date": "2026-09-06",
+      "count": 0,
+      "level": 0
     }
   ],
   "stats": {
-    "total": 2529,
+    "total": 2573,
     "active_days": 167,
     "current_streak": 27,
     "longest_streak": 27,
@@ -1870,10 +1840,6 @@
       "count": 99
     },
     "monthly": [
-      {
-        "month": "2025-08",
-        "total": 0
-      },
       {
         "month": "2025-09",
         "total": 0
@@ -1920,11 +1886,11 @@
       },
       {
         "month": "2026-08",
-        "total": 840
+        "total": 844
       },
       {
         "month": "2026-09",
-        "total": 18
+        "total": 58
       }
     ]
   }
