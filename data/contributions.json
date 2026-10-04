@@ -1,44 +1,9 @@
 {
   "username": "yz174",
-  "generated_at": "2026-10-03T11:36:38+00:00",
-  "from": "2025-09-28",
-  "to": "2026-10-03",
+  "generated_at": "2026-10-04T12:16:54+00:00",
+  "from": "2025-10-05",
+  "to": "2026-10-04",
   "days": [
-    {
-      "date": "2025-09-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-30",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-04",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-05",
       "count": 0,
@@ -1856,12 +1821,17 @@
     },
     {
       "date": "2026-10-03",
-      "count": 7,
+      "count": 9,
       "level": 1
+    },
+    {
+      "date": "2026-10-04",
+      "count": 0,
+      "level": 0
     }
   ],
   "stats": {
-    "total": 2761,
+    "total": 2763,
     "active_days": 195,
     "current_streak": 55,
     "longest_streak": 55,
@@ -1870,10 +1840,6 @@
       "count": 99
     },
     "monthly": [
-      {
-        "month": "2025-09",
-        "total": 0
-      },
       {
         "month": "2025-10",
         "total": 21
@@ -1924,7 +1890,7 @@
       },
       {
         "month": "2026-10",
-        "total": 20
+        "total": 22
       }
     ]
   }
