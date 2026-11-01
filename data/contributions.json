@@ -1,44 +1,9 @@
 {
   "username": "yz174",
-  "generated_at": "2026-10-31T12:18:41+00:00",
-  "from": "2025-10-26",
-  "to": "2026-10-31",
+  "generated_at": "2026-11-01T13:15:00+00:00",
+  "from": "2025-11-02",
+  "to": "2026-11-01",
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 9,
-      "level": 1
-    },
-    {
-      "date": "2025-10-29",
-      "count": 9,
-      "level": 1
-    },
-    {
-      "date": "2025-10-30",
-      "count": 3,
-      "level": 1
-    },
-    {
-      "date": "2025-10-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-01",
-      "count": 1,
-      "level": 1
-    },
     {
       "date": "2025-11-02",
       "count": 8,
@@ -1856,27 +1821,28 @@
     },
     {
       "date": "2026-10-31",
-      "count": 6,
+      "count": 7,
+      "level": 1
+    },
+    {
+      "date": "2026-11-01",
+      "count": 2,
       "level": 1
     }
   ],
   "stats": {
-    "total": 3029,
-    "active_days": 222,
-    "current_streak": 83,
-    "longest_streak": 83,
+    "total": 3010,
+    "active_days": 219,
+    "current_streak": 84,
+    "longest_streak": 84,
     "best_day": {
       "date": "2026-08-06",
       "count": 99
     },
     "monthly": [
       {
-        "month": "2025-10",
-        "total": 21
-      },
-      {
         "month": "2025-11",
-        "total": 16
+        "total": 15
       },
       {
         "month": "2025-12",
@@ -1920,7 +1886,11 @@
       },
       {
         "month": "2026-10",
-        "total": 289
+        "total": 290
+      },
+      {
+        "month": "2026-11",
+        "total": 2
       }
     ]
   }
