@@ -2,8 +2,8 @@
   "username": "yz174",
   "title": "yz174@github",
   "rows": [
-    { "key": "Now",   "value": "SDE Intern @ Figmenta" },
-    { "key": "Prev",  "value": "SDE Intern @ SAG, DRDO" },
+    { "key": "Now",   "value": "SDE @ 8x" },
+    { "key": "Prev",  "value": "SDE @ Figmenta" },
     { "key": "Focus", "value": "Shipping on both sides of the stack - React Native + Expo on mobile, Next.js on web, backed by Node.js / Express and FastAPI over Postgres" },
     { "key": "Reach", "value": "ujjwalkrish082@gmail.com" }
   ]
