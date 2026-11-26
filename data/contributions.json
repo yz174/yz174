@@ -1,8 +1,8 @@
 {
   "username": "yz174",
-  "generated_at": "2026-11-25T17:07:29+00:00",
+  "generated_at": "2026-11-26T16:48:41+00:00",
   "from": "2025-11-23",
-  "to": "2026-11-25",
+  "to": "2026-11-26",
   "days": [
     {
       "date": "2025-11-23",
@@ -1841,15 +1841,20 @@
     },
     {
       "date": "2026-11-25",
-      "count": 15,
+      "count": 18,
+      "level": 1
+    },
+    {
+      "date": "2026-11-26",
+      "count": 16,
       "level": 1
     }
   ],
   "stats": {
-    "total": 3510,
-    "active_days": 241,
-    "current_streak": 108,
-    "longest_streak": 108,
+    "total": 3529,
+    "active_days": 242,
+    "current_streak": 109,
+    "longest_streak": 109,
     "best_day": {
       "date": "2026-08-06",
       "count": 99
@@ -1905,7 +1910,7 @@
       },
       {
         "month": "2026-11",
-        "total": 517
+        "total": 536
       }
     ]
   }
